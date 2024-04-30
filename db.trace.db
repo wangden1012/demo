@@ -1,0 +1,6 @@
+2024-04-30 21:06:39.523478+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POSTS" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.body,p1_0.date,p1_0.user_id from posts p1_0 order by p1_0.date desc [42104-224]
+2024-04-30 21:09:03.822753+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POSTS" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.body,p1_0.date,p1_0.user_id from posts p1_0 order by p1_0.date desc [42104-224]
